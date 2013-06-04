@@ -1,0 +1,3 @@
+[submodule "vendor/submodules/coffee-mode"]
+	path = vendor/submodules/coffee-mode
+	url = git@github.com:defunkt/coffee-mode.git
