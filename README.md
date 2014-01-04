@@ -15,3 +15,8 @@ by adding this line to your ~/.emacs-live.el file:
     (live-add-pack '("/path/to/coffeescript-pack"))
 
 Then, you'll need to restart emacs. It's that easy!
+
+### Changes
+
+1.0.1 - update coffee-mode to v0.5.0
+1.0.0 - initial release
